@@ -35,7 +35,7 @@ This is my first intermediate-to-advanced JavaScript project, exploring what we 
 - CSS3: Styling the calculator for a clean and functional appearance.
 
 - JavaScript: Core logic, DOM manipulation, event handling, and implementation of factory functions.
-- 
+  
 ---
 
 ## 🚀 How to Run the Project
