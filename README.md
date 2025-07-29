@@ -20,7 +20,7 @@ This is my first intermediate-to-advanced JavaScript project, exploring what we 
 
 - User-Friendly Interface: Clean and intuitive design for easy interaction.
 
--Dynamic Display: Real-time update of the display with entered numbers and results.
+- Dynamic Display: Real-time update of the display with entered numbers and results.
 
 - Event-Driven Interaction: All calculator operations are handled through JavaScript event listeners.
 
@@ -40,4 +40,4 @@ This is my first intermediate-to-advanced JavaScript project, exploring what we 
 
 ## 🚀 How to Run the Project
 
-To view and test the project locally, follow these steps: https://nicksoftwaredev.github.io/alura-books-project/
+To view and test the project locally, follow these steps: https://nicksoftwaredev.github.io/calculator-web-js
